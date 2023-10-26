@@ -1,0 +1,14 @@
+{
+  "lambdaARN": "Paste your lambda function ARN within quotes here",
+  "powerValues": [
+    128,
+    256,
+    512,
+    1024,
+    2048,
+    3008
+  ],
+  "num": 100,
+  "parallelInvocation": true,
+  "payload": {}
+}
