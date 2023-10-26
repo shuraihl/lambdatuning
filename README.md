@@ -7,4 +7,4 @@ Directions:
 2. Clone this repository to your local machine. This should download the Zip file that contains the deployment package.
 3. Log into your AWS management console, make sure you are in the same region where the Lambda Power Tuning Tool state machine is deployed.
 4. Navigate to the Lambda service console.
-5. Create a new Lambda function by clicking the 'Create function' button.
+5. Create a new Lambda function by clicking the '''Create function''' button.
