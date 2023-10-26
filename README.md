@@ -12,7 +12,7 @@ Directions:
 7. Give your function a name.
 8. Choose Python 3.11 as the runtime.
 9. Click `Create function`
-10. Once the function is created, click on the `Code` tab and click on `Upload from` button on the right.
+10. Once the function is created, click on the `Code` tab and click the `Upload from` button on the right.
 11. Select `.zip file`, then select `Upload`.
 12. In the pop-up file menu, select the `lambda_function.zip` Zip file you cloned in step 2.
 13. Click `Save`.
