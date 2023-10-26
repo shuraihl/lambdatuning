@@ -15,5 +15,5 @@ Directions:
 10. Once the function is created, click on the `Code` tab and click the `Upload from` button on the right.
 11. Select `.zip file`, then select `Upload`.
 12. In the pop-up file menu, select the `lambda_function.zip` Zip file you cloned in step 2.
-13. Click `Save`.
+13. Click `Save`. This will create your Lambda function.
 14. Copy the Lambda function arn and use that as an input to the state machine created in step 1. You can edit and use the `state_machine_input.json` file as the input too.
