@@ -16,6 +16,6 @@ Directions:
 11. Select `.zip file`, then select `Upload`.
 12. In the pop-up file menu, select the `lambda_function.zip` Zip file you cloned in step 2.
 13. Click `Save`. This will create your Lambda function.
-14. Once the function is created, set it's timeout to 15 minutes.
+14. To avoid timeouts during testing, set the function's timeout to 15 minutes.
 15. Copy the Lambda function ARN and use that as an input to the state machine created in step 1 to run the Lambda Power Tuning tool.
 16. You can optionally use `state_machine_input.json` file as the input too. Just make sure you edit it and add your Lambda function's ARN from step 14.
